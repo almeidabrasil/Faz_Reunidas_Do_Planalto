@@ -1,0 +1,1 @@
+var json_ParqueNacional_GO_5 = {"type":"FeatureCollection","name":"ParqueNacional_GO_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
